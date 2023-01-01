@@ -1,10 +1,15 @@
+https://railway.app/dashboard
+
+=========================================
+
+
 Admin Alpha
 
 asani@witoxr.studio
 o*i21*@49S%yc&Rq7$
 
 
-Unique UUID 
+Unique UUID :
 FD$q5MS1u!k9iwmKtu7Mt@W%WXXeo34e$fJ1
 
 Secret string 
@@ -19,3 +24,17 @@ DOMAIN
 
 manag.witoxr.studio
 /public_html/metathon.witoxr.studio 
+
+
+=================
+
+REMOTE BD
+72.167.56.14 
+host : managwitoxr
+
+Data base
+managwitoxr
+Username
+u_managwitoxr
+pass
+cGtndlv4Wd,#
